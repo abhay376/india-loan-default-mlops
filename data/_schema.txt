@@ -1,0 +1,18 @@
+['Applicant_ID', 'Annual_Income', 'Applicant_Age', 'Work_Experience', 'Marital_Status', 'House_Ownership', 'Vehicle_Ownership(car)', 'Occupation', 'Residence_City', 'Residence_State', 'Years_in_Current_Employment', 'Years_in_Current_Residence', 'Loan_Default_Risk']
+
+Applicant_ID                    int64
+Annual_Income                   int64
+Applicant_Age                   int64
+Work_Experience                 int64
+Marital_Status                 object
+House_Ownership                object
+Vehicle_Ownership(car)         object
+Occupation                     object
+Residence_City                 object
+Residence_State                object
+Years_in_Current_Employment     int64
+Years_in_Current_Residence      int64
+Loan_Default_Risk               int64
+dtype: object
+
+(3, 13)
